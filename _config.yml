@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Naowal Siripatana # your name (or website title) here
+logo: "/images/0.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Full Stack Engineer with easy-going, honestly and pursuit of excellence,
+Joined the Computer Academic Olympics Camp when in high school which will get tuition fee scholarship to study in the university. Her opinion is being hired as remotely work.
   <br><br>
-  Second description 
+  Looking for remote work with welfare. Django Web Developer, Python Programmer and Data sciences
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/naowal-siripatana-b8b252ba/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-architect
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
