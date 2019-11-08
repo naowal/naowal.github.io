@@ -1,10 +1,8 @@
-[Naowal Resume](https://www.resume.com/share/naowalsiripatana)
+## [Naowal Resume](https://www.resume.com/share/naowalsiripatana)
 
 
 
 ## Portfolio
-
----
 
 ### Python 
 
