@@ -32,8 +32,14 @@
 
 ---
 
-- [Terminal - basic commands](https://course.digitalskill.org/courses/course-v1:SOFTWAREPARKTHAILAND_CODECAMP+CC104+2019/about)
-<img src="https://course.digitalskill.org/asset-v1:SOFTWAREPARKTHAILAND_CODECAMP+CC104+2019+type@asset+block@h8.jpg"/>
+- [HTML / CSS - foundations](https://course.digitalskill.org/courses/course-v1:SOFTWAREPARKTHAILAND_CODECAMP+CC106+2019/about)
+<img src="https://course.digitalskill.org/asset-v1:SOFTWAREPARKTHAILAND_CODECAMP+CC106+2019+type@asset+block@h4.jpg"/>
+
+---
+
+
+- [JavaScript - foundations](https://course.digitalskill.org/courses/course-v1:SOFTWAREPARKTHAILAND_CODECAMP+CC107+2019/about)
+<img src="JavaScript - foundations"/>
 
 ---
 
