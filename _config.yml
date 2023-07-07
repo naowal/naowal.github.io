@@ -7,5 +7,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/naowal-siripatana-b8b252ba/">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-architect
+theme: jekyll-theme-minima
 google_analytics: UA-151814771-1 # your Google Analytics tracking ID here
